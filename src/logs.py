@@ -1,0 +1,25 @@
+from datetime import datetime
+
+
+async def write_log(log: str) -> bool:
+    now = datetime.now()
+    date = f"{now.year}-{now.month}-{now.day} {now.hour}:{now.minute}:{now.second}.{now.microsecond}"
+
+    try:
+        file = open("logs.txt", "a+")
+        file.write(f"{date} {log}\n")
+        file.close()
+        print(f"{date} {log}")
+        return True
+    except Exception as error:
+        print(f"Произошла ошибка {error} при логировании.")
+        return False
+
+
+class Logging:
+    @staticmethod
+    async def logging(ctx) -> bool:
+        if await write_log(f"{ctx.author} use command: {ctx.invoked_with}"):
+            return True
+        else:
+            return False
