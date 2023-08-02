@@ -11,8 +11,8 @@ async def write_log(log: str) -> bool:
         file.close()
         print(f"{date} {log}")
         return True
-    except Exception as error:
-        print(f"Произошла ошибка {error} при логировании.")
+    except Exception as error_name:
+        print(f"An error {error_name} occurred while logging.")
         return False
 
 

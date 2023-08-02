@@ -10,7 +10,7 @@ class NitroCog(commands.Cog):
 
     @commands.command(aliases=['gen_nitro'])
     @commands.check(log.logging)
-    async def __gen_nitro(self, ctx, amount: int):
+    async def _gen_nitro(self, ctx, amount: int):
         message = ""
         for code in generate(amount):
             message = message + code + "\n"
