@@ -11,4 +11,5 @@ async def on_ready():
         await client.load_extension(f"cogs.{cog}")
         await write_log(f'Loaded extension "{cog}"')
 
+
 client.run(bot_data['token'])

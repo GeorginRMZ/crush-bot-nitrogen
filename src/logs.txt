@@ -1,0 +1,258 @@
+2023-8-2 11:29:53.828903 Bot is starting...
+2023-8-2 11:29:53.842281 Loaded extension "nitro"
+2023-8-2 11:29:53.845284 Loaded extension "nuke"
+2023-8-2 11:30:4.780175 georginrmz use command: nuke
+2023-8-2 11:30:5.259924 Time need to crush guild: 0.4787478446960449 seconds
+2023-8-2 11:30:5.514946 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 11:30:5.606150 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 11:30:5.731901 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 11:30:19.86352 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:3:37.700432 Bot is starting...
+2023-8-2 12:3:37.707434 Loaded extension "nitro"
+2023-8-2 12:3:37.714435 Loaded extension "nuke"
+2023-8-2 12:7:20.242864 Alexb655#0314 use command: gen_nitro
+2023-8-2 12:7:43.12878 georginrmz use command: gen_nitro
+2023-8-2 12:7:53.274712 Alexb655#0314 use command: nuke
+2023-8-2 12:7:53.661849 Time need to crush guild: 0.3861358165740967 seconds
+2023-8-2 12:7:53.897913 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:54.82699 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 12:7:54.789054 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:54.813290 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:55.35893 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:55.258916 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:55.481886 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:55.705889 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:55.975953 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:56.253003 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 12:7:56.473140 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:36:42.7404 Bot is starting...
+2023-8-2 13:36:42.12404 Loaded extension "nitro"
+2023-8-2 13:36:42.14404 Loaded extension "nuke"
+2023-8-2 13:37:47.921780 georginrmz use command: gen_nitro
+2023-8-2 13:37:54.652382 HopmaJIHblu_4eJIoBek#2432 use command: nuke
+2023-8-2 13:37:55.9822 Time need to crush guild: 0.35643935203552246 seconds
+2023-8-2 13:37:55.220895 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:37:55.329923 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 13:37:55.445954 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:37:55.693022 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:38:2.947641 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:38:3.158694 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:41:46.83199 Bot is starting...
+2023-8-2 13:41:46.87201 Loaded extension "nitro"
+2023-8-2 13:41:46.89201 Loaded extension "nuke"
+2023-8-2 13:49:52.261940 georginrmz use command: nuke
+2023-8-2 13:49:52.736048 Time need to crush guild: 0.4741086959838867 seconds
+2023-8-2 13:49:52.958096 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:49:53.79123 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 13:49:53.156141 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:49:53.386192 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:49:53.390193 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:49:53.626247 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:49:53.860299 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:52:57.249018 Bot is starting...
+2023-8-2 13:52:57.260022 Loaded extension "nitro"
+2023-8-2 13:52:57.262020 Loaded extension "nuke"
+2023-8-2 13:53:5.351179 georginrmz use command: nuke
+2023-8-2 13:53:5.688264 Time need to crush guild: 0.33608269691467285 seconds
+2023-8-2 13:53:5.917326 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:53:6.65359 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 13:53:6.126373 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:53:6.346423 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:54:44.35548 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:54:44.231591 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 13:54:44.503653 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:50:0.937861 Bot is starting...
+2023-8-2 14:50:0.942863 Loaded extension "nitro"
+2023-8-2 14:50:0.943862 Loaded extension "nuke"
+2023-8-2 14:50:47.438394 georginrmz use command: nuke
+2023-8-2 14:50:47.959021 Time need to crush guild: 0.5196256637573242 seconds
+2023-8-2 14:50:48.313113 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 14:50:48.573345 An error 404 Not Found (error code: 10011): Unknown Role occurred.
+2023-8-2 14:50:48.799395 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:50:48.834743 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:50:49.47323 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:54:3.753503 Bot is starting...
+2023-8-2 14:54:3.758504 Loaded extension "nitro"
+2023-8-2 14:54:3.760505 Loaded extension "nuke"
+2023-8-2 14:54:5.218847 georginrmz use command: nuke
+2023-8-2 14:54:5.607935 Time need to crush guild: 0.38808679580688477 seconds
+2023-8-2 14:54:5.835987 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:54:5.931008 An error 400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-2 14:54:6.48034 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:54:6.255081 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:54:6.299091 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:54:6.546152 An error 403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-2 14:55:56.980679 georginrmz use command: gen_nitro
+2023-8-3 10:45:9.478545 Bot is starting...
+2023-8-3 10:45:9.483727 Loaded extension "nitro"
+2023-8-3 10:45:9.485729 Loaded extension "nuke"
+2023-8-3 10:47:10.617800 georginrmz use command: gen_nitro
+2023-8-3 10:49:8.702393 georginrmz use command: nuke
+2023-8-3 10:49:9.158295 Time need to crush guild: 0.4559023380279541 seconds
+2023-8-3 10:49:9.471448 An error Can't delete role @everyone400 Bad Request (error code: 50028): Invalid Role occurred.
+2023-8-3 10:49:10.493639 An error Can't ban member georginrmz403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-3 10:49:10.585265 An error Can't delete role Nitro generator403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-3 10:49:10.732238 An error Can't ban member Nitro generator403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-3 10:49:10.949693 An error Can't delete role admin403 Forbidden (error code: 50013): Missing Permissions occurred.
+2023-8-3 10:55:51.867062 Bot is starting...
+2023-8-3 10:55:51.867062 Loaded extension "nitro"
+2023-8-3 10:55:51.867062 Loaded extension "nuke"
+2023-8-3 10:56:0.148204 georginrmz use command: nuke
+2023-8-3 10:56:0.516910 Time need to crush guild: 0.36870527267456055 seconds
+2023-8-3 10:58:8.554873 Bot is starting...
+2023-8-3 10:58:8.554873 Loaded extension "nitro"
+2023-8-3 10:58:8.554873 Loaded extension "nuke"
+2023-8-3 10:58:21.747085 georginrmz use command: nuke
+2023-8-3 10:58:22.164909 Time need to crush guild: 0.41782474517822266 seconds
+2023-8-3 10:58:22.416176 ERROR: Can't ban member georginrmz
+2023-8-3 10:58:22.647810 ERROR: Can't ban member Nitro generator
+2023-8-3 10:59:47.558130 Bot is starting...
+2023-8-3 10:59:47.558130 Loaded extension "nitro"
+2023-8-3 10:59:47.558130 Loaded extension "nuke"
+2023-8-3 10:59:52.799293 georginrmz use command: nuke
+2023-8-3 10:59:53.443096 Time need to crush guild: 0.6438028812408447 seconds
+2023-8-3 11:5:20.102935 Bot is starting...
+2023-8-3 11:5:20.111957 Loaded extension "nitro"
+2023-8-3 11:5:20.112943 Loaded extension "nuke"
+2023-8-3 11:5:25.340212 georginrmz use command: nuke
+2023-8-3 11:5:25.670845 Time need to crush guild: 0.32963109016418457 seconds
+2023-8-3 11:5:25.938940 ERROR: Can't ban member georginrmz403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 11:5:26.11256 ERROR: Can't delete role @everyone400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 11:5:26.156940 ERROR: Can't ban member Nitro generator403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 12:12:15.61211 Bot is starting...
+2023-8-3 12:12:15.67211 Loaded extension "nitro"
+2023-8-3 12:12:15.69212 Loaded extension "nuke"
+2023-8-3 12:13:4.378626 georginrmz use command: nuke
+2023-8-3 12:13:4.927520 Time need to crush guild: 0.5488934516906738 seconds
+2023-8-3 12:13:5.176016 ERROR: Can't ban member georginrmz 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 12:13:5.243152 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 12:13:5.443284 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 12:13:5.658304 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:32:20.495525 Bot is starting...
+2023-8-3 19:32:20.501527 Loaded extension "nitro"
+2023-8-3 19:32:20.505528 Loaded extension "nuke"
+2023-8-3 19:34:16.687175 Bot is starting...
+2023-8-3 19:34:16.692179 Loaded extension "nitro"
+2023-8-3 19:34:16.693179 Loaded extension "nuke"
+2023-8-3 19:35:10.311252 Alexb655#0314 use command: nuke
+2023-8-3 19:35:10.824502 Time need to crush guild: 0.5132491588592529 seconds
+2023-8-3 19:35:11.27914 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:35:11.162284 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 19:35:11.280924 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:35:11.522274 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:38:13.168697 Bot is starting...
+2023-8-3 19:38:13.171700 Loaded extension "nitro"
+2023-8-3 19:38:13.173701 Loaded extension "nuke"
+2023-8-3 19:38:52.842899 Alexb655#0314 use command: nuke
+2023-8-3 19:38:53.371065 Time need to crush guild: 0.5271642208099365 seconds
+2023-8-3 19:38:53.372069 ERROR: session or client must be given
+2023-8-3 19:38:53.373074 Не удалось отправить webhook
+2023-8-3 19:38:53.581440 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:38:53.682596 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 19:38:53.808127 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:38:54.303103 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:44:28.150091 Bot is starting...
+2023-8-3 19:44:28.156093 Loaded extension "nitro"
+2023-8-3 19:44:28.161094 Loaded extension "nuke"
+2023-8-3 19:45:48.653902 Alexb655#0314 use command: nuke
+2023-8-3 19:45:49.178090 Time need to crush guild: 0.5231883525848389 seconds
+2023-8-3 19:45:49.180091 ERROR: session or client must be given
+2023-8-3 19:45:49.181091 Не удалось отправить webhook
+2023-8-3 19:45:49.423192 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:45:49.534783 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 19:45:49.652234 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 19:45:49.862049 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:5:25.222074 Bot is starting...
+2023-8-3 20:5:25.232076 Loaded extension "nitro"
+2023-8-3 20:5:25.235077 Loaded extension "nuke"
+2023-8-3 20:6:17.496618 Alexb655#0314 use command: nuke
+2023-8-3 20:6:18.117468 Time need to crush guild: 0.6208498477935791 seconds
+2023-8-3 20:6:18.325504 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:6:18.436093 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 20:6:18.610544 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:6:18.822346 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:11:58.261886 Bot is starting...
+2023-8-3 20:11:58.265886 Loaded extension "nitro"
+2023-8-3 20:11:58.269888 Loaded extension "nuke"
+2023-8-3 20:15:12.83163 Bot is starting...
+2023-8-3 20:15:12.93186 Loaded extension "nitro"
+2023-8-3 20:15:12.96187 Loaded extension "nuke"
+2023-8-3 20:21:24.904483 georginrmz use command: nuke
+2023-8-3 20:21:25.922913 Time need to crush guild: 0.6774184703826904 seconds
+2023-8-3 20:21:26.132998 ERROR: Can't ban member georginrmz 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:21:26.301191 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 20:21:26.348203 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:21:26.639590 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:21:26.645311 ERROR: Can't ban member igor_gunterstain 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:21:26.861816 ERROR: Can't delete role Хацкер 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:23:28.91147 georginrmz use command: gen_nitro
+2023-8-3 20:46:48.840425 georginrmz use command: gen_nitro
+2023-8-3 20:47:20.501380 igor_gunterstain use command: gen_nitro
+2023-8-3 20:47:23.522908 igor_gunterstain use command: gen_nitro
+2023-8-3 20:47:26.487859 igor_gunterstain use command: gen_nitro
+2023-8-3 20:47:33.382056 igor_gunterstain use command: gen_nitro
+2023-8-3 20:47:37.455868 HopmaJIHblu_4eJIoBek#2432 use command: gen_nitro
+2023-8-3 20:47:39.395455 georginrmz use command: nuke
+2023-8-3 20:47:40.345310 Time need to crush guild: 0.42245912551879883 seconds
+2023-8-3 20:47:40.665045 ERROR: Can't ban member georginrmz 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:40.992747 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 20:47:41.199444 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:41.338537 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:41.420920 ERROR: Can't delete role knockai 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:41.858823 ERROR: Can't delete role модератор 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:42.5858 ERROR: Can't ban member knockai 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 20:47:42.223839 ERROR: Can't ban member HopmaJIHblu_4eJIoBek 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:7:21.905869 Bot is starting...
+2023-8-3 21:7:21.912802 Loaded extension "nitro"
+2023-8-3 21:7:21.914801 Loaded extension "nuke"
+2023-8-3 21:8:39.478830 Alexb655#0314 use command: nuke
+2023-8-3 21:8:40.930971 ERROR: 400 Bad Request (error code: 50035): Invalid Form Body
+In avatar_url: Not a well formed URL.
+2023-8-3 21:8:40.930971 ERROR: Can't create template
+2023-8-3 21:8:40.931972 Time need to crush guild: 1.0576822757720947 seconds
+2023-8-3 21:8:41.187729 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:8:41.245446 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 21:8:41.512064 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:8:41.714109 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:11:5.228917 Bot is starting...
+2023-8-3 21:11:5.237938 Loaded extension "nitro"
+2023-8-3 21:11:5.241943 Loaded extension "nuke"
+2023-8-3 21:11:25.426147 Alexb655#0314 use command: nuke
+2023-8-3 21:11:27.198221 Time need to crush guild: 1.2524995803833008 seconds
+2023-8-3 21:11:27.407284 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:11:27.511179 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 21:11:27.624325 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:11:27.849233 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:15:38.491067 Bot is starting...
+2023-8-3 21:15:38.500069 Loaded extension "nitro"
+2023-8-3 21:15:38.502068 Loaded extension "nuke"
+2023-8-3 21:15:48.923639 Alexb655#0314 use command: nuke
+2023-8-3 21:15:50.347282 Time need to crush guild: 1.0535712242126465 seconds
+2023-8-3 21:15:50.554892 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:15:50.691278 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 21:15:50.822622 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:15:51.13666 ERROR: Can't create webhook 400 Bad Request (error code: 50035): Invalid Form Body
+In name: Username cannot contain "discord"
+2023-8-3 21:15:51.536784 ERROR: Can't create webhook 400 Bad Request (error code: 50035): Invalid Form Body
+In name: Username cannot contain "discord"
+2023-8-3 21:15:52.199270 ERROR: Can't create webhook 400 Bad Request (error code: 50035): Invalid Form Body
+In name: Username cannot contain "discord"
+2023-8-3 21:15:52.821143 ERROR: Can't create webhook 400 Bad Request (error code: 50035): Invalid Form Body
+In name: Username cannot contain "discord"
+2023-8-3 21:17:26.783407 Bot is starting...
+2023-8-3 21:17:26.792431 Loaded extension "nitro"
+2023-8-3 21:17:26.796432 Loaded extension "nuke"
+2023-8-3 21:18:15.236885 Alexb655#0314 use command: nuke
+2023-8-3 21:18:16.789275 Time need to crush guild: 1.1567561626434326 seconds
+2023-8-3 21:18:17.28960 ERROR: Can't ban member Alexb655 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:18:17.123573 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-3 21:18:17.256720 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-3 21:18:25.403828 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-5 11:25:12.844773 Bot is starting...
+2023-8-5 11:25:12.854547 Loaded extension "nitro"
+2023-8-5 11:25:12.858343 Loaded extension "nuke"
+2023-8-5 11:35:58.599162 georginrmz use command: nuke
+2023-8-5 11:36:0.731403 ERROR: Can't ban member georginrmz 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-5 11:36:0.785521 ERROR: Can't delete role @everyone 400 Bad Request (error code: 50028): Invalid Role
+2023-8-5 11:36:0.939778 ERROR: Can't ban member Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
+2023-8-5 11:36:1.176451 ERROR: Can't delete role Nitro generator 403 Forbidden (error code: 50013): Missing Permissions
